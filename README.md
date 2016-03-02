@@ -43,14 +43,14 @@
 #####2.1.1  系统流程图
 　　E商城的系统流程图如图2-1所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/sys-cart-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/sys-cart-eshop.png)
 
 **<p align="center">图2-1 系统流程图</p>**
 
 #####2.1.2  模块结构图
 　　E商城的模块功能结构图如图2-2所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/mod-cart-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/mod-cart-eshop.png)
 
 **<p align="center">图2-2 模块功能结构图</p>**
 
@@ -80,84 +80,84 @@
 #####3.1.1  e商城网站首页
 　　如图3-1所示，是网站的首页，采用现在比较流行的购物网站的布局，把电子产品分为了8个大类，分为是电脑配件、手机配件、数码影音、家用电器、办公打印、网络产品、服务产品，首页的下部分主要是热品推荐和最新的各类商品。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-1-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-1-eshop.png)
 
 **<p align="center">图3-1 商城网站首页</p>**
 
 #####3.1.2  搜索详情页
 　　如图3-2所示，是搜索商品的详情页，用户通过在搜索栏或是分类导航类中搜索查询，都能到达该页，如搜索“主机”。此页会把搜索到的商品经过分页处理后，展现给出来，并且可以增加销量、价格和浏览量的条件来缩小搜索的范围。会员可以在此界面把有意购买的商品暂存到购物车。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-2-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-2-eshop.png)
 
 **<p align="center">图3-2 搜索详情页</p>**
 
 #####3.1.3  商品详情页
 　　商品的详情页包含的内容较多，除了商品的一些基本信息外，还有大量的介绍商品的图片，用户对此商品的评价和售后保障等。会员可以在此界面把有意购买的商品暂存到购物车，数量可以自己设定，如图3-3所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-3-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-3-eshop.png)
 
 **<p align="center">图3-3 商品详情页</p>**
 
 #####3.1.4  会员注册
 　　这个是用户注册部分，非本网站会员可以注册成为我们的会员，如图3-4所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-4-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-4-eshop.png)
 
 **<p align="center">图3-4 用户注册</p>**
 
 #####3.1.5  会员登录
 　　这个是用户登录部分，会员可以通过登录进入个人中心，如图3-5所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-5-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-5-eshop.png)
 
 **<p align="center">图3-5 用户登录</p>**
 
 #####3.1.6  个人中心
 　　在个人中心，会员可以编辑自己的基本资料、设置自己的头像、修改密码，并且能管理购物车的商品，支付订单，管理订单，修改收货地址以及查看商品的评价记录等等，如图3-6所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-6-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-6-eshop.png)
 
 **<p align="center">图3-6 个人中心</p>**
 
 #####3.1.7  管理员登录
 　　如图3-7所示，是管理员后台登录界面。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-7-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-7-eshop.png)
 
 **<p align="center">图3-7 管理员登录</p>**
 
 #####3.1.8  后台管理系统
 　　后台主界面显示了管理员的登录名和登录次数信息，如图3-8所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-8-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-8-eshop.png)
 
 **<p align="center">图3-8 后台管理系统</p>**
 
 #####3.1.9  综合设置
 　　后台的综合设置里主要是控制整个网站的界面显示和信息，如图3-9所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-9-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-9-eshop.png)
 
 **<p align="center">图3-9 综合设置</p>**
 
 #####3.1.10  产品管理
 　　这个功能区中，主要是产品分类，各个产品的信息以及订单的管理查询，如图3-10所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-10-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-10-eshop.png)
 
 **<p align="center">图3-10 产品管理</p>**
 
 #####3.1.11  会员管理
 　　如图3-11所示，主要是对会员信息的一些操作和管理。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-11-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-11-eshop.png)
 
 **<p align="center">图3-11 会员管理</p>**
 
 #####3.1.12  留言评论管理
 　　这个功能区是处理会员的商品评价记录和留言咨询，如图3-12所示。
 
-![](https://raw.githubusercontent.com/Nealgu/eshop/master/shot/3-12-eshop.png)
+![](https://raw.githubusercontent.com/neilzoe/eshop/master/shot/3-12-eshop.png)
 
 **<p align="center">图3-12 留言评论管理</p>**
 
